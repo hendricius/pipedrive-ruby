@@ -1,7 +1,7 @@
 # pipedrive-ruby
 
 [![Code Climate](https://codeclimate.com/github/stagelink/pipedrive-ruby/badges/gpa.svg)](https://codeclimate.com/github/stagelink/pipedrive-ruby)
-[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://circleci.com/gh/stagelink/pipedrive-ruby)
+[![CircleCI](https://img.shields.io/circleci/project/github/stagelink/pipedrive-ruby.svg)](https://circleci.com/gh/stagelink/pipedrive-ruby)
 [![Test Coverage](https://codeclimate.com/github/stagelink/pipedrive-ruby/badges/coverage.svg)](https://codeclimate.com/github/stagelink/pipedrive-ruby/coverage)
 
 ## Installation
