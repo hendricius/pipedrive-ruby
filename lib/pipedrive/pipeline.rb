@@ -1,7 +1,7 @@
 module Pipedrive
   class Pipeline < Base
     def stages
-      Stage.all(get "/stages", { :pipeline_id => self.id })
+      Stage.all.select {|stage| stage.pipeline_id == self.id }
     end
 
     def statistics(id, start_date, end_date)
